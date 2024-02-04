@@ -25,7 +25,7 @@ export default function Details() {
                   <h4><strong>PRICE</strong> - ₹ 4999/-</h4>
                   <br></br>
                   <h4><strong>VALIDITY </strong> - 1 YEARS</h4>
-                  <a href="https://mgxpi.courses.store/358517?mainCategory=15&filterId=29&sortId=11" target="_blank">
+                  <a href="https://mgxpi.courses.store/456852?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp" target="_blank">
                     <Button type="button" className="solid_btn">Enroll now</Button>
                   </a>
                 </div>

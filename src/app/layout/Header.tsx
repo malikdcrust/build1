@@ -91,7 +91,7 @@ function Header() {
                       <NavDropdown.Item href="/">KARAMYOGI - UPPSC Updated</NavDropdown.Item>
                       <NavDropdown.Item href="/"> Haryana Civil Services (HCS) 2023</NavDropdown.Item>
                     </NavDropdown> */}
-                    <Link className='nav-link' href="/blogs">Blogs</Link>
+                    {/*<Link className='nav-link' href="/blogs">Blogs</Link>*/}
                     <Link className='nav-link' href="/#footersec">Contact US</Link>
                     
                   </Nav>

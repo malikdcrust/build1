@@ -116,7 +116,7 @@ export default function Courses () {
                 <h3>UPSC MAINS TEST SERIES</h3>
                 <br></br>
                 <br></br>
-                <h1>₹ 8, 206</h1>
+                <h1>₹ 10, 000</h1>
                 <br></br>
                 <ul>
                   <li>
@@ -230,7 +230,7 @@ export default function Courses () {
           <Row>
             <Col lg="3">
               <div className="course_card">
-                <h3>DISHA</h3>
+                <h3>DISHA- Psychology Optional Mentorship</h3>
                 <br></br><br></br>
                 <h1>₹ 20, 000</h1>
                 <br></br>
@@ -246,8 +246,7 @@ export default function Courses () {
             </Col>
             <Col lg="3">
               <div className="course_card">
-                <h3>PYQ PARISHRAM</h3>
-                <br></br>
+                <h3>PYQ PARISHRAM- Psychology Optional PYQs</h3>
                 <br></br>
                 <h1>₹ 15, 000</h1>
                 <br></br>
@@ -263,7 +262,7 @@ export default function Courses () {
             </Col>
             <Col lg="3">
               <div className="course_card">
-                <h3>PARSHIRAM</h3>
+                <h3>PARISHRAM- Psychology Optional Test Series and Answer Writing</h3>
                 <br></br>
                 <br></br>
                 <h1>₹ 13, 000</h1>
@@ -282,7 +281,7 @@ export default function Courses () {
               <div className="course_card">
                 <h3>PUBLIC ADMINISTRATION</h3>
                 <br></br>
-                <h1>₹ 9, 000</h1>
+                <h1>₹ 9, 999</h1>
                 <br></br>
                 <ul>
                   <li>
